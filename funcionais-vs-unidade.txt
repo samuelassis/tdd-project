@@ -1,0 +1,6 @@
+TESTES DE UNIDADE:
+* Testa a menor unidade de funcionalidade, geralmente um método / função.
+* Os testes de unidade devem ser focados em um recurso específico 
+TESTES FUNCIONAIS:
+* Os testes funcionais verificam a exatidão de um recurso em particular, comparando os resultados de uma determinada entrada com a especificação.
+* Os testes funcionais não se preocupam com resultados intermediários ou efeitos colaterais, apenas o resultado
