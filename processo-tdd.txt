@@ -1,0 +1,1 @@
+O processo de TDD consiste em criar o conjunto de testes tanto funcionais quanto de unidades antes do codigo da aplicação em si. E a ideia é que a aplicação vá sendo construida em torno dos testes, sendo escrita e testada ao mesmo tempo até que a aplicação passe em todos os testes e cumpra os requisitos.
