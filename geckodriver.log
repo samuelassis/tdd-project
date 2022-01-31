@@ -334,3 +334,30 @@ JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: 
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1643646403201	geckodriver	INFO	Listening on 127.0.0.1:44313
+1643646403206	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel1xcoK"
+
+(firefox:519962): Gtk-WARNING **: 13:26:43.732: Theme directory 32@2x/devices of theme Vimix-Black-dark has no size field
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643646404091	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilel1xcoK/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+1643646406356	Marionette	INFO	Listening on port 43313
+1643646406450	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1643646407774	Marionette	INFO	Stopped listening on port 43313
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
