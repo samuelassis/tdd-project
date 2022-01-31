@@ -190,3 +190,24 @@ JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: inv
 1643212814594	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
 1643212814746	Marionette	INFO	Stopped listening on port 33223
 console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+1643644997828	geckodriver	INFO	Listening on 127.0.0.1:35479
+1643644998828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMpHE9K"
+
+(firefox:470657): Gtk-WARNING **: 13:03:19.415: Theme directory 32@2x/devices of theme Vimix-Black-dark has no size field
+
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1643644999736	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is BR
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMpHE9K/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4097: TypeError: invalid assignment to const 'dialogReason'
+1643645002201	Marionette	INFO	Listening on port 44769
+1643645002282	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1643645002488	Marionette	INFO	Stopped listening on port 44769
